@@ -1,0 +1,16 @@
+{
+    "name": "weprovide/magento2-module-select2-uicomponent",
+    "description": "",
+    "authors": [{
+      "email": "tim@weprovide.com",
+      "name": "Tim Neutkens"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+          "WeProvide\\Select2UiComponent\\": ""
+      },
+      "files": ["registration.php"]
+    }
+}
