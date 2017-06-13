@@ -1,6 +1,7 @@
 {
     "name": "weprovide/magento2-module-select2-uicomponent",
-    "description": "",
+    "description": "Select2 UI Component for Magento 2",
+    "type": "magento2-module",
     "authors": [{
       "email": "tim@weprovide.com",
       "name": "Tim Neutkens"
