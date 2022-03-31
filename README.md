@@ -27,6 +27,7 @@ Example:
                     <item name="dataType" xsi:type="string">text</item>
                     <item name="label" xsi:type="string" translate="true">CUSTOM FIELD</item>
                     <item name="formElement" xsi:type="string">select</item>
+                    <item name="component" xsi:type="string">WeProvide_Select2UiComponent/js/select2-knockout</item>
                     <item name="source" xsi:type="string">page</item>
                     <item name="dataScope" xsi:type="string">CUSTOM_FIELD</item>
                     <item name="elementTmpl" xsi:type="string">WeProvide_Select2UiComponent/form/element/select2</item>
